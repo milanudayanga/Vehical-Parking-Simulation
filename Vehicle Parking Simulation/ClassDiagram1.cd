@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_Parking_Simulation.Buffer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAEAAAAAiAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Buffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Parking_Simulation.ButtonThread">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAIFAAAASQAIAAAAEAAAAgAAICAgABA0ABAAQAAEAA=</HashCode>
+      <FileName>ButtonThread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Parking_Simulation.GUI">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/3/8g+TS2K56ID9esEPFg8X+8rGts+/y/2XL937P6zg=</HashCode>
+      <FileName>GUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Parking_Simulation.Program">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Parking_Simulation.SectionThread">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAA4FAAAASAAAAAAAEAAAAgAAICAgABA8ABAAQAAEAA=</HashCode>
+      <FileName>SectionThread.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Parking_Simulation.Semaphore">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABAAAAAAAAAYAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Semaphore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
